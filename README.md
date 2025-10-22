@@ -12,4 +12,4 @@ Description: This is a game of guessing the Duck. The user will be able to guess
 
 
 
-[markdown] (https://www.markdownguide.org/cheat-sheet/)
+[markdown](https://www.markdownguide.org/cheat-sheet/)
