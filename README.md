@@ -42,6 +42,7 @@ This was more of an advance project with creating image detection with using API
 
 <img width="894" height="1002" alt="Screenshot 2025-12-08 164145" src="https://github.com/user-attachments/assets/fb675369-6ae5-4c9b-9f17-09834190dc48" />
 
+---
 
 ### project 3
 
