@@ -1,6 +1,30 @@
 
 --- 
 
+### FISHING GAME: 
+
+DESCRIPTION: 
+First Keyboard Movement Game where your player/the Boat can roam around areas to fish and have a fellow follow him with cool features. 
+
+This Video Demonstrates the ability to have a companion follow you based of your movement.
+
+
+https://github.com/user-attachments/assets/4743e6ca-efd4-4053-a3a3-40ade59b8164
+
+
+
+<img width="753" height="386" alt="Screenshot 2026-05-07 124900" src="https://github.com/user-attachments/assets/946fef06-16fa-4428-ac19-d8547a3249dd" />
+A cool and interactive way to show that you can fish and the color in the background brightens blue and the item you fished Goes into your Inventory on the right.
+<img width="780" height="414" alt="Screenshot 2026-05-07 124914" src="https://github.com/user-attachments/assets/b247364c-085a-40c1-98e7-848b1a944d3f" />
+However if you fish outside of the fishing zone. The background color will Flash red and nothing will be added to your inventory on the right and it would tell you that you are not in the fishing Zone. 
+
+
+
+
+
+
+
+
 ### Action Adventure Game: Lettuce Ta-Mato
 
 Description:
