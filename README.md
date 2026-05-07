@@ -42,4 +42,25 @@ Created 4 mini worlds with its own distinct features of Inventory and color back
 <img width="2325" height="1216" alt="Screenshot 2026-04-15 215208" src="https://github.com/user-attachments/assets/cf4c6603-5aeb-4243-93a3-d531aee6a906" />
 <img width="2350" height="1225" alt="Screenshot 2026-04-15 215323" src="https://github.com/user-attachments/assets/19e0d3d1-dc44-4469-9116-6889c681d4c2" />
 
+---
+
+### WEATHER API
+Using the Console APplication to work with and using API keys to call data from another server that we can use to display an updated content Like checking the wheather of where we are at currently. 
+With this we also reused this code into a WPF format without having to do reducent coding.
+
+<img width="336" height="348" alt="Screenshot 2026-05-07 125946" src="https://github.com/user-attachments/assets/f9329c05-bcc5-4d6e-b906-d451d4042229" />
+
+---
+
+### ADOPT A FISH
+Using Methods and Lists to create multiple instances of a fish and Displaying them in a list that is in this case a tank and stores all the avalibale information about that type of fish.
+Also being able to change the individual fish's name that is store in the list and seeing the change appear!
+
+<img width="540" height="336" alt="Screenshot 2026-05-07 135127" src="https://github.com/user-attachments/assets/15f75ceb-e380-418f-b721-474e66b742a3" />
+<img width="729" height="331" alt="Screenshot 2026-05-07 135042" src="https://github.com/user-attachments/assets/8b817f10-1ee7-4917-ad78-d5b01e02f123" />
+<img width="738" height="406" alt="Screenshot 2026-05-07 135028" src="https://github.com/user-attachments/assets/7da26cc8-e536-415c-88aa-3958623e6e51" />
+
+
+
+
 
