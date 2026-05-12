@@ -60,6 +60,15 @@ Also being able to change the individual fish's name that is store in the list a
 <img width="729" height="331" alt="Screenshot 2026-05-07 135042" src="https://github.com/user-attachments/assets/8b817f10-1ee7-4917-ad78-d5b01e02f123" />
 <img width="738" height="406" alt="Screenshot 2026-05-07 135028" src="https://github.com/user-attachments/assets/7da26cc8-e536-415c-88aa-3958623e6e51" />
 
+---
+
+###SANTAS BAG
+Learning how to save data in a file and to have a save state for when you close the application and when you come back it will still be there.
+This Project was santas bag inspired as so many items can be store here just like Santas bag and sometimes you don't even know what is even in there...
+
+
+<img width="1259" height="901" alt="Screenshot 2026-05-12 181759" src="https://github.com/user-attachments/assets/961cff92-1dc4-4a5c-a05a-56880b3acabd" />
+<img width="1259" height="892" alt="Screenshot 2026-05-12 181811" src="https://github.com/user-attachments/assets/9bf15d8c-98f5-4405-8806-e001b8c97579" />
 
 
 
